@@ -21,3 +21,8 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merge takes all of the changes in one branch and combines them with another branch
 in one commit. Rebase is when someone makes an unrelated change, and you add on your changes
 to their version by changing the current version to the version the other party just created.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn SQL and get better at efficiently traversing/analyzing large
+quantities of data.
