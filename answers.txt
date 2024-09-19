@@ -16,3 +16,8 @@ plant movement vs. animal movement. Afterwards, they import these photo labels
 into a spreadsheet, and use data science techniques to analyze and create data visualizations
 of the behaviors and characteristics of local animals in the area.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merge takes all of the changes in one branch and combines them with another branch
+in one commit. Rebase is when someone makes an unrelated change, and you add on your changes
+to their version by changing the current version to the version the other party just created.
