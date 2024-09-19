@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a useful and good way to back-up code so that projects are not 
+local on one machine. By storing it on the web, your projects are accessible
+at any point in time, regardless of the state of one's computer. In addition, git 
+also makes it easier to collaborate with others and to share one's projects to the public.
