@@ -1,0 +1,18 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a useful and good way to back-up code so that projects are not 
+local on one machine. By storing it on the web, your projects are accessible
+at any point in time, regardless of the state of one's computer. In addition, git 
+also makes it easier to collaborate with others and to share one's projects to the public.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be used for ecology. For example, often times wildlife ecologists
+set up cameras around certain areas to observe animal activities. These camera are often
+equipped with motion sensors, so every time the camera senses movement it will take a 
+series of consecutive shots. As a result, when ecologist arrive to pick up the cameras
+and process them, they have to manually label and sift through thousands of photos of 
+plant movement vs. animal movement. Afterwards, they import these photo labels 
+into a spreadsheet, and use data science techniques to analyze and create data visualizations
+of the behaviors and characteristics of local animals in the area.
+
